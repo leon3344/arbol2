@@ -52,7 +52,7 @@ int main()
     int n;  
     int x;
 
-    cout << "\n\t\t  ::----- ARBOL BINARIO ORDEN -----::  \n\n";
+    cout << "\n\t\t  ::----- ARBOL BINARIO O -----::  \n\n";
 
     cout << " Numero de nodos del arbol:  ";
     cin >> n;
